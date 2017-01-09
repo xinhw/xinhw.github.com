@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to XIN Hong-wei's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xinhw/xinhw.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Profile
+Old soldiers never die, they just fade away. 
+I studied programming in 1990's. The first computer language is FORTRAN 77, the second is C. From then on, C is the main language for me to program. In recent years, I like programming with C#,Python.  
+You can [emial to](xinhw@me.com) anytime. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
