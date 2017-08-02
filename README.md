@@ -6,8 +6,8 @@ _I studied programming in 1990's. The first computer language is FORTRAN 77, the
 You can [emial me](mailto:xinhw@me.com) anytime. 
 
 ### Techs
-_Smart Card Technology _
-_C# _
-_C++ _ 
-_Python _
-_Qt _
+_Smart Card Technology_ <p>
+_C#_ <p>
+_C++_ <p> 
+_Python_ <p>
+_Qt_ <p>
