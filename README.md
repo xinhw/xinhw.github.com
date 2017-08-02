@@ -5,9 +5,9 @@
 _I studied programming in 1990's. The first computer language is FORTRAN 77, the second is C. From then on, C is the main language for me to program. In recent years, I like programming with C#,Python._
 You can [emial me](mailto:xinhw@me.com) anytime. 
 
-### Technique
-_Smart Card Technology_
-_C#_
-_C++_ <br>
-_Python_ <br>
-_Qt_ <br>
+### Techs
+_Smart Card Technology _
+_C# _
+_C++ _ 
+_Python _
+_Qt _
