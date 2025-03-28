@@ -1,4 +1,4 @@
-## Welcome to XIN Hong-wei's GitHub Pages
+## Welcome to XIN Hongwei's GitHub Pages
 
 ### Profile
 # _**Old soldiers never die, they just fade away**._ 
@@ -11,3 +11,5 @@ _C#_ <p>
 _C++_ <p> 
 _Python_ <p>
 _Qt_ <p>
+_Android_<p>
+_Java_<p>
